@@ -1,5 +1,5 @@
 # 📙 Evaluacion Crediticia GERMAN CREDIT 
-[🔗 CLICK AQUI -> PANORAMA GENERAL DATABASE German Credit](https://docs.google.com/spreadsheets/d/e/2PACX-1vRrqmvVlkEoJKonOQhbZfpdpGrRjSM7Vta0aI3h5QZb5JeBNvP6iXaMAkgsvJEi-JkRcUj_ZH58wDoK/pub?output=csv)
+[🔗 CLICK AQUI -> PANORAMA GENERAL DATABASE German Credit](https://docs.google.com/spreadsheets/d/e/2PACX-1vS6pMR2lXpFB9HdgD7neGnxoliStL227qON_kBJ3N0gwTWupYV-V5GJajz4_hIe_g/pubhtml)
 
 
 Este repositorio aborda el análisis de solvencia crediticia utilizando Python como herramienta principal. Implementa modelos de clasificación binaria para evaluar la capacidad de pago de potenciales clientes, priorizando la optimización del rendimiento y la discriminación precisa de la clase 0 (buenos pagadores). El enfoque incluye la búsqueda de hiperparámetros y la validación cruzada para evitar el sobreajuste. La evaluación del modelo se basa en métricas clave como la matriz de confusión y la curva ROC, destacando la relevancia de estas prácticas en la toma de decisiones crediticias. El repositorio busca ofrecer una herramienta integral para instituciones financieras que buscan mejorar la gestión de riesgos y fortalecer su cartera de clientes mediante la toma de decisiones basada en datos.
