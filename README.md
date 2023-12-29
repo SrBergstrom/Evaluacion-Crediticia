@@ -1,22 +1,8 @@
-# 📙 Evaluacion Crediticia GERMAN CREDIT 
-[🔗 CLICK AQUI -> DATABASE German Credit](https://docs.google.com/spreadsheets/d/e/2PACX-1vTnQU_6-nvfQXYiT5a5tInehYd3yamEN2DinJcpyUf2QCCtLKdZAnPRuyeEi_WGs2WVvwvymRz4f4hU/pubhtml)
+# 📘 Evaluación Crediticia GERMAN CREDIT 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Google Colab Embed</title>
-</head>
-<body>
-    <iframe
-        src="https://colab.research.google.com/drive/14pm1wwqcyQ2alljKoWo6dKDr2zJ5ara_"
-        width="800"
-        height="600"
-        frameborder="0"
-        allowfullscreen="true"
-        mozallowfullscreen="true"
-        webkitallowfullscreen="true"
-    ></iframe>
-</body>
-</html>
+[🔗 BASE DE DATOS German Credit](https://docs.google.com/spreadsheets/d/e/2PACX-1vTnQU_6-nvfQXYiT5a5tInehYd3yamEN2DinJcpyUf2QCCtLKdZAnPRuyeEi_WGs2WVvwvymRz4f4hU/pubhtml)
+
+Este repositorio se centra en el análisis de solvencia crediticia utilizando Python. Implementa modelos de clasificación binaria para evaluar la capacidad de pago de potenciales clientes, priorizando el rendimiento y la discriminación precisa de la clase 0 (buenos pagadores). Incluye la búsqueda de hiperparámetros y validación cruzada para evitar sobreajustes. La evaluación se basa en métricas clave como matriz de confusión y curva ROC, destacando su relevancia en la toma de decisiones crediticias. Este repositorio pretende ser una herramienta integral para instituciones financieras que buscan mejorar la gestión de riesgos y fortalecer su cartera de clientes mediante decisiones fundamentadas en datos.
+
+## Google Colab Notebook
+[📊 Visualiza el Notebook en Google Colab](https://colab.research.google.com/drive/14pm1wwqcyQ2alljKoWo6dKDr2zJ5ara_)
