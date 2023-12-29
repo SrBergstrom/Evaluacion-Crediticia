@@ -6,5 +6,5 @@ Este repositorio se centra en el análisis de solvencia crediticia utilizando Py
 
 ## Google Colab Notebook
 
-[📊 01 EDA Google Colab](https://colab.research.google.com/drive/1TZdhydaCFKQMucObRd6s4TTsuXUL6uDH)
-[📊 02 Modelos Google Colab](https://colab.research.google.com/drive/14pm1wwqcyQ2alljKoWo6dKDr2zJ5ara_)
++ [📊 01 EDA Google Colab](https://colab.research.google.com/drive/1TZdhydaCFKQMucObRd6s4TTsuXUL6uDH)
++ [📊 02 Modelos Google Colab](https://colab.research.google.com/drive/14pm1wwqcyQ2alljKoWo6dKDr2zJ5ara_)
